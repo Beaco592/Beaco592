@@ -2,7 +2,7 @@
 
 # 👋 Olá! Eu sou Douglas Henrique
 
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Developer+Frontend;Developer+Gamer;React+%7C+TypeScript+%7C+Lua;Developer+database;MySQL+%7C+MariaDB;Criador+de+Dashboards+Modernas;Desenvolvedor+de+Sistemas+FiveM;Designer+UI%2FUX" />
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Developer+Frontend;Developer+Gamer;React+%7C+TypeScript+%7C+Lua;Developer+database;MySQL+%7C+MariaDB;Modern+Styles;System+Developer;Designer+UI%2FUX" />
 
 <br>
 

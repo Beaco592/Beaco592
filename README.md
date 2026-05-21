@@ -2,7 +2,7 @@
 
 # 👋 Olá! Eu sou Douglas Henrique
 
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Developer+Frontend;Developer+Gamer;React+%7C+TypeScript+%7C+Lua;Developer+database;MySQL+%7C+MariaDB;Modern+Styles;System+Developer;Designer+UI%2FUX" />
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=React+%7C+TypeScript+%7C+Lua;Developer+database;Designer+UI%2FUX;Developer+Frontend;MySQL+%7C+MariaDB;Modern+Styles;System+Developer;" />
 
 <br>
 
@@ -131,15 +131,6 @@ Especialidades:
   - Lua
   - MySQL
   - MariaDB
-  - FiveM
-  - Dashboards
-  - Interfaces Modernas
-
-Estilo:
-  - Glassmorphism
-  - Minimalista
-```
-
 ---
 
 # 🌐 Redes Sociais

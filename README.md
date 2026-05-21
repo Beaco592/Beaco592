@@ -176,19 +176,7 @@ Especialidades:
 ✨ Transformando criatividade em código
 ```
 
----
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=7F5AF0&text_color=ffffff"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=ffffff"/>
-
-</div>
-
----
 
 <div align="center">
 

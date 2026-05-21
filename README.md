@@ -2,7 +2,7 @@
 
 # 👋 Olá! Eu sou Douglas Henrique
 
-<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=React+%7C+TypeScript+%7C+Lua;Developer+database;Designer+UI%2FUX;Developer+Frontend;MySQL+%7C+MariaDB;Modern+Styles;System+Developer;" />
+<img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=React+%7C+TypeScript+%7C+Lua;Developer+Database;Designer+UI%2FUX;Frontend+Developer;MySQL+%7C+MariaDB;Modern+Styles;System+Developer" />
 
 <br>
 
@@ -10,7 +10,7 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/styler%20%26%20Frontend-58A6FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Frontend%20Developer-58A6FF?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Status-Codando%20☕-7F5AF0?style=for-the-badge"/>
 
@@ -26,7 +26,7 @@
 <tr>
 <td align="center">
 
- <strong><i>
+<strong><i>
 "Esquecendo-me das coisas que ficam para trás e avançando para as que estão adiante, prossigo para o alvo..."
 </i></strong>
 
@@ -44,11 +44,14 @@
 
 <table>
 <tr>
+
 <td align="center" width="220">
 
 ## ⚛️ React
 
 # A++
+
+`100/100`
 
 Interfaces Modernas  
 Dashboards  
@@ -62,6 +65,8 @@ Componentização
 
 # A++
 
+`100/100`
+
 Tipagem  
 Estrutura  
 Escalabilidade
@@ -73,6 +78,8 @@ Escalabilidade
 ## 🌙 Lua
 
 # A++
+
+`100/100`
 
 Sistemas FiveM  
 Eventos  
@@ -86,11 +93,14 @@ Lógica de Jogos
 
 # A+
 
+`95/100`
+
 MySQL  
 MariaDB  
 Estruturação
 
 </td>
+
 </tr>
 </table>
 
@@ -131,6 +141,10 @@ Especialidades:
   - Lua
   - MySQL
   - MariaDB
+
+
+```
+
 ---
 
 # 🌐 Redes Sociais
@@ -138,15 +152,15 @@ Especialidades:
 <div align="center">
 
 <a href="https://instagram.com/ohenrydouglass">
-<img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-ohenrydouglass-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://discord.com/users/cafeinado01">
-<img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/Discord-cafeinado01-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 <a href="mailto:douglas.96522040@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-20232A?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-douglas.96522040%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -161,6 +175,18 @@ Especialidades:
 💻 Explorando novas ideias e tecnologias
 ✨ Transformando criatividade em código
 ```
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=7F5AF0&text_color=ffffff"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=ffffff"/>
+
+</div>
 
 ---
 
